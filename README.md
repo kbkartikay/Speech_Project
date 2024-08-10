@@ -19,6 +19,5 @@ Open Speech Therapy folder
 Open the .sln file in Visual Studio 2010
 Run the program to launch the GUI
 Use the GUI to play around with the project
-See the demo video(speech_therapy.mp4) if any doubts 
 ```
 
